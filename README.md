@@ -1,6 +1,11 @@
 # Proyecto_Individual1
 proyecto individual fase de labs, centrado en generar las transformaciones requeridas desde csv, y disponibilizarlas por medio de fastapi y deta 
 
+
+link para ver video de demostracion
+
+https://www.youtube.com/watch?v=SY51-ew-0zc
+
                        Descripcion de archivos dentro de repositorio
 
 DF_Servicios.csv: este csv contiene la el dataframe integrando los DF originales y con sus transformaciones disponibles realizada
