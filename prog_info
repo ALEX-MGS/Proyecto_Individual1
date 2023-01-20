@@ -1,1 +1,0 @@
-{"id":"4af52f7d-0b87-472a-a54a-293e8f349af7","space":48830,"runtime":"python3.9","name":"fastapideta","path":"qchgvu","project":"b0yszl5n","account":"144798365827","region":"us-east-1","deps":["fastapi","numpy","pandas","pandasql"],"envs":null,"public":true,"log_level":"debug","cron":""}
