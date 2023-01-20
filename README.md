@@ -16,6 +16,8 @@ transformaciones.py: este archivo contiene todos los pasos que realize para efec
                           
 la api cuenta con 4 funciones que enlisto a continuacion incluyendo descripcion de funcionamiento, link de acceso y un ejemplo de uso 
 
+https://qchgvu.deta.dev/docs#/default
+
 
 #Cantidad de películas por plataforma con un puntaje mayor a XX en determinado año
 
