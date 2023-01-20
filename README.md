@@ -18,24 +18,28 @@ la api cuenta con 4 funciones que enlisto a continuacion incluyendo descripcion 
 
 
 #Cantidad de películas por plataforma con un puntaje mayor a XX en determinado año
+
 https://qchgvu.deta.dev/get_score_count
 
 https://qchgvu.deta.dev/get_score_count/netflix/85/2010
 
 
 #Cantidad de veces que aparece una keyword en el título de peliculas/series, por plataforma
+
 https://qchgvu.deta.dev/get_word_count
 
 https://qchgvu.deta.dev/get_word_count/netflix/love
 
 
 #La segunda película con mayor score para una plataforma determinada, según el orden alfabético de los títulos.
+
 https://qchgvu.deta.dev/get_second_score
 
 https://qchgvu.deta.dev/get_second_score/amazon
 
 
 #Cantidad de series y películas por rating
+
 https://qchgvu.deta.dev/get_rating_count
 
 https://qchgvu.deta.dev/get_rating_count/18+
